@@ -1,0 +1,10 @@
+# Если переменная а больше нуля то выведите "Верно". Проверьте работу скрипта при а рвном 1,0,-3
+a=int(input('Введите 1 число:'))
+aa=int(input('Введите 2 число:'))
+aaa=int(input('Введите 3 число:'))
+if a > 0:print("True")
+else: print("Fouls")
+if aa > 0:print("True")
+else: print("Fouls")
+if aaa > 0:print("True")
+else: print("Fouls")
